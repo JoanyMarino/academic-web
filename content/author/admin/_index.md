@@ -21,7 +21,7 @@ email = "jmarinocoron@mun.ca"
 # List (academic) interests or hobbies
 interests = [
   "Theoretical Ecology",
-  "Mathematical biology",
+  "Mathematical Ecology",
   "Symbiosis"
 ]
 
@@ -29,7 +29,7 @@ interests = [
 [[education.courses]]
   course = "Ph.D. Candidate in Biology"
   institution = "Memorial University of Newfoundland"
-  year = 2016
+  year = "present"
 
 [[education.courses]]
   course = "M.Sc. in Ecology"
