@@ -10,35 +10,36 @@ role = "Ph.D. Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Memorial University of Newfoundland", url = "https://www.mun.ca/biology/" } ]
+organizations = [ { name = "Memorial University of Newfoundland", url = "https://www.mun.ca/biology/" },
+{ name = "Instituto Venezolano de Investigaciones Científicas", url = "https://www.ivic.gob.ve" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include evolution and population ecology of symbiotic interactions."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "jmarinocoron@mun.ca"
 
 # List (academic) interests or hobbies
 interests = [
+  "Symbiosis",
   "Theoretical Ecology",
-  "Mathematical Ecology",
-  "Symbiosis"
+  "Evolutionary Ecology"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "Ph.D. Candidate in Biology"
-  institution = "Memorial University of Newfoundland"
+  institution = "Memorial University of Newfoundland, Canada"
   year = "present"
 
 [[education.courses]]
   course = "M.Sc. in Ecology"
-  institution = "Instituto Venezolano de Investigaciones Científicas"
+  institution = "Instituto Venezolano de Investigaciones Científicas, Venezuela"
   year = 2016
 
 [[education.courses]]
   course = "B.Sc. in Biology"
-  institution = "Universidad de Carabobo"
+  institution = "Universidad de Carabobo, Venezuela"
   year = 2011
 
 # Social/Academic Networking
