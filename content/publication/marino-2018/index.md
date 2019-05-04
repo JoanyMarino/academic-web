@@ -10,3 +10,8 @@ url_pdf = "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0073-47212018
 doi = "10.1590/1678-4766e2018004"
 +++
 
+{{< figure src="NMDS.jpg" >}}
+
+<p style="text-align: center;"> 
+  Non-metric multidimensional scaling ordination (NMDS) for the abundance of decapods associated with two mixed seagrass meadows at the Paraguan&aacute; Peninsula, Falc&oacute;n State, Venezuela 
+</p>
