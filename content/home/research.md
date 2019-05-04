@@ -12,4 +12,6 @@ weight = 10
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+For my Ph.D., I focus on two [thyasirid bivalve](https://onlinelibrary.wiley.com/doi/abs/10.1111/maec.12310) species from Newfoundland, Canada, as a case study. These bivalves are closely related, sympatric, show similar life history features, and are particulate feeders. However, one species hosts chemosynthetic bacteria that are digested as a supplementary resource, and the consequences of this association are not known. To understand the implications of symbiosis in the thyasirids, I use a mixture of dynamic energy budget theory, physiologically structured population models, and optimal control theory, plus growth and life history data.
+
+Any attempt at understanding symbiosis must start by recognizing the relationship. For this reason, I also dedicate a fraction of my research to building a baseline knowledge of other symbiotic interactions in marine invertebrates, especially in the Caribbean region.
