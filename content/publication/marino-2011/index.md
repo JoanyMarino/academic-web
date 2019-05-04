@@ -9,7 +9,8 @@ publication = "*Revista Mexicana de Biodiversidad*"
 url_pdf = "http://ref.scielo.org/xw94sc"
 +++
 
-The presence of the aeolidacean *Dondice parguerensis* Brandon and Cutress, 1985, parasite of the cnidaria *Cassiopea xamachana* Bigelow, 1892 and *Cassiopea frondosa* (Pallas, 1774) is recorded for the first time in Venezuela. It was previously recorded in Puerto Rico, Panama and Bermuda.
+{{< figure src="D_parguerensis.jpg" >}}
 
-{{< figure src="D_parguerensis.jpg" title="Dondice parguerensis from Venezuela" >}}
-
+<p style="text-align: center;"> 
+  *Dondice parguerensis* from Venezuela"  
+</p>
