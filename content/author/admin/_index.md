@@ -79,7 +79,7 @@ interests = [
 I am a theoretical ecologist. I build mathematical models and combine analytical methods with numerical simulations to study the ecology and evolution of symbiosis. My research revolves around finding out the consequences of symbiosis at the individual- and population-levels. 
 
 I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs.
-# I also collaborate with the Centro de Ecología y Evolución at the UCV
-# (http://izt.ciens.ucv.ve/izet/?page_id=13)
-# and the Laboratorio de Ecología y Genética de Poblaciones at the IVIC
-# (http://www.ivic.gob.ve/es/investigacion-3/centros-31/ecologia-316/laboratorios/ecologia-y-genetica-de-poblaciones/proyectos)
+[//]: <> (I also collaborate with the Centro de Ecología y Evolución at the UCV )
+[//]: <> ( (http://izt.ciens.ucv.ve/izet/?page_id=13) )
+[//]: <> (and the Laboratorio de Ecología y Genética de Poblaciones at the IVIC )
+[//]: <> ( (http://www.ivic.gob.ve/es/investigacion-3/centros-31/ecologia-316/laboratorios/ecologia-y-genetica-de-poblaciones/proyectos) )
