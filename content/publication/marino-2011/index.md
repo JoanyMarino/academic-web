@@ -1,5 +1,5 @@
 +++
-title = "Primer registro de *Dondice parguerensis* (Mollusca: Favorinidae) para Venezuela"
+title = "First record of _Dondice parguerensis_ (Mollusca: Favorinidae) in Venezuela"
 date = 2011-01-01
 authors = ["Joany Mariño", "Edixon Farfán", "Manuel Caballer"]
 publication_types = ["2"]
