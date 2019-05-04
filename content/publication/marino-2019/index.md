@@ -11,3 +11,8 @@ url_pdf = "http://www.sciencedirect.com/science/article/pii/S1385110118300364"
 doi = "10.1016/j.seares.2018.07.015"
 +++
 
+{{< figure src="DEB-abj.jpg" >}}
+
+<p style="text-align: center;"> 
+  Schematic representation of the DEB-abj model
+</p>
