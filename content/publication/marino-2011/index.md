@@ -12,5 +12,5 @@ url_pdf = "http://ref.scielo.org/xw94sc"
 {{< figure src="D_parguerensis.jpg" >}}
 
 <p style="text-align: center;"> 
-  *Dondice parguerensis* from Venezuela"  
+  <i>Dondice parguerensis<i> from Venezuela  
 </p>
