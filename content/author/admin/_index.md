@@ -22,8 +22,8 @@ email = "jmarinocoron@mun.ca"
 # List (academic) interests or hobbies
 interests = [
   "Symbiosis",
-  "Theoretical Ecology",
-  "Evolutionary Ecology"
+  "Population dynamics",
+  "Evolutionary ecology"
 ]
 
 # List qualifications (such as academic degrees)
@@ -76,9 +76,9 @@ interests = [
 
 +++
 
-I am a theoretical ecologist. I build mathematical models and combine analytical methods with numerical simulations to study the ecology and evolution of symbiosis. 
+I am a theoretical ecologist. I build mathematical models and combine analytical methods with numerical simulations to study the ecology and evolution of symbiosis. My research revolves around finding out the consequences of trophic symbiosis at the individual- and population-levels. 
 
-My research revolves around finding out the consequences of symbiosis at the individual- and population-levels. I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs.
+I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs.
 
 [//]: <> (I also collaborate with the Centro de Ecología y Evolución at the UCV )
 [//]: <> ( (http://izt.ciens.ucv.ve/izet/?page_id=13) )
