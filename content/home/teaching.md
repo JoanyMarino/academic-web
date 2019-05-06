@@ -15,9 +15,9 @@ weight = 30
 +++
 
 I am a [Carpentries](https://carpentries.org/) instructor,
-and I teach Software Carpentry(https://software-carpentry.org/),
-Data Carpentry(https://datacarpentry.org/), and
-Library Carpentry(https://librarycarpentry.org/) workshops.
+and I teach [Software Carpentry](https://software-carpentry.org/),
+[Data Carpentry](https://datacarpentry.org/), and
+[Library Carpentry](https://librarycarpentry.org/) workshops.
 I also contribute in lesson development for
 [Carpentries en Latinoamérica](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html).
 
