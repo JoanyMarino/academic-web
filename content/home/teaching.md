@@ -23,5 +23,3 @@ I also contribute in lesson development for
 
 I am part of [R-Bar](https://daniellequinn.github.io/RBarMUN/),
 a scientific programming study group at Memorial University.
-
-\#coder 
