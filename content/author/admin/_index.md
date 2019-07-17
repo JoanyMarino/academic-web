@@ -22,8 +22,8 @@ email = "jmarinocoron@mun.ca"
 # List (academic) interests or hobbies
 interests = [
   "Symbiosis",
-  "Population dynamics",
-  "Evolutionary ecology"
+  "Evolutionary ecology",
+  "Population dynamics"
 ]
 
 # List qualifications (such as academic degrees)
@@ -61,7 +61,7 @@ interests = [
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/joanymarino"
-  
+
 [[social]]
   icon = "gitlab"
   icon_pack = "fab"
@@ -75,7 +75,7 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-I am a theoretical ecologist (\#coder). I build mathematical models and combine analytical methods with numerical simulations to study the mechanisms underlying symbiotic interactions. My research centers on finding out the consequences of trophic symbiosis at the individual- and population-levels. 
+I am a theoretical ecologist (\#coder). I build mathematical models and combine analytical methods with numerical simulations to study the mechanisms underlying symbiotic interactions. My research centers on finding out the consequences of trophic symbiosis at the individual- and population-levels.
 
 I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs.
 
