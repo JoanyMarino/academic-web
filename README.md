@@ -43,6 +43,15 @@ Prerequisites:
   
 4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it.
 
+
+## Optional: Hugo server with Docker container
+
+Go to a folder where you want to keep the files for your Hugo web site and run:
+
+    docker run -d --name hugo -p 80:1313 chasg/hugo server --bind "0.0.0.0" -p 1313 --themesDir /app/themes && docker cp    hugo:/app/site $(pwd) && docker stop hugo && docker rm hugo && docker run -d -v $(pwd)/site:/app/site --name hugo -p 80:1313 chasg/hugo server --bind "0.0.0.0" -p 1313 --themesDir /app/themes
+
+Browse localhost:80 to view your Hugo web server. 
+
 ## License
 
 Copyright 2017 [George Cushen](https://georgecushen.com).
