@@ -6,31 +6,32 @@ name = "Joany Mariño"
 superuser = true
 
 # Role/position
-role = "Ph.D. Candidate"
+role = "Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Memorial University of Newfoundland", url = "https://www.mun.ca/biology/" }]
+organizations = [ { name = "University Medicine Greifswald", url = "https://www2.medizin.uni-greifswald.de/icm/index.php?id=20&L=1" }]
+#organizations = [ { name = "Memorial University of Newfoundland", url = "https://www.mun.ca/biology/" }]
 #{ name = "Instituto Venezolano de Investigaciones Científicas", url = "http://www.ivic.gob.ve/es/" }
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Theoretical ecologist. My research focuses on the evolution and population ecology of symbiotic interactions."
+bio = "Computational biologist."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "jmarinocoron@mun.ca"
 
 # List (academic) interests or hobbies
 interests = [
-  "Symbiosis",
-  "Evolutionary ecology",
-  "Population dynamics"
+  "Population dynamics",
+  "Epidemiology",
+  "Data quality"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Ph.D. Candidate in Biology"
+  course = "Ph.D. in Mathematical Biology"
   institution = "Memorial University of Newfoundland, Canada"
-  year = "present"
+  year = "2021"
 
 [[education.courses]]
   course = "M.Sc. in Ecology"
